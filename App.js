@@ -77,6 +77,7 @@ const App: () => Node = () => {
           }}>
           <Section title="Step One">
             Supalerk first edit file.
+            ภาษาไทย
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
